@@ -1,0 +1,12 @@
+{
+    "name": "drupal/ckeditor_widgets",
+    "description": "Common RLMumford Tools & Modules",
+    "type": "drupal-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "rlmumford",
+            "email": "rlmumford@googlemail.com"
+        }
+    ]
+}
